@@ -21,6 +21,7 @@ Each and every file in this repository are licensed under the Apache-2.0 License
 ### Support:
 
 Discord : https://discord.gg/YfwfA4JbdW
+
 Website : https://kittyborgx.github.io/hydralang
 
 
